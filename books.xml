@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+    <book>
+        <Title >Real Analysis For Graduate Students </Title >
+        <Author >Richard F Bass</Author >
+        <Subject >Pure Mathematics </Subject >
+        <Publisher >CreateSpace Independent Publishing Platform; Second edition (January 4, 2013)</Publisher >
+        <ISBN-10>1481869140</ISBN-10>
+    </book>
+    <book>
+        <Title >Modern Statistical Methods for Astronomy </Title >
+        <Author >Eric D. Feigelson, G. Jogesh Babu</Author >
+        <Subject >Statistics,Astronomy </Subject >
+        <Publisher >Cambridge University Press; 1 edition (August 27, 2012)</Publisher >
+        <ISBN-10>052176727X</ISBN-10>
+    </book>
+    <book>
+        <Title >Numerical Differential Equations: Theory and Technique, ODE Methods, Finite Elements and Collocation</Title >
+        <Author >John Loustau</Author >
+        <Subject >Applied Mathematics</Subject >
+        <Publisher >World Scientific Publishing Co (March 14, 2016)</Publisher >
+        <ISBN-10>9814719498</ISBN-10>
+    </book>
+</root>
